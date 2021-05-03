@@ -6,4 +6,4 @@
 - 📫 How to reach me: uddhavdave@protonmail.com
 - ⚡ Fun fact: I like rust(The game) as well.
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://en3ufe07iiqahge.m.pipedream.net)
