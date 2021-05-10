@@ -1,6 +1,3 @@
-
-![counter](https://en3ufe07iiqahge.m.pipedream.net)
-
 ### Hi there 👋   
 
 - 🔭 I’m currently working as an IoT engineer
