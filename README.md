@@ -1,8 +1,7 @@
-### Hi there 👋   
+## Hi there 👋   
 
-- 🔭 I’m currently working as a Backend Engineer(Rust)
-- 🌱 I’m currently learning eBPF and System Design 
-- 👯 I’m looking to collaborate on some rust projects
+- 🔭 I use Rust as my primary language.
+- 🌱 I’m currently working on desinging Safe, Scalable and Efficient Systems, across Web2 and Web3
 - 📫 How to reach me: uddhavdave1@gmail.com
-- ⚡ Fun fact: I like rust(The game) as well.
+- ⚡ Aspiring Linchpin
 
